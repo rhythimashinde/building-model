@@ -1,0 +1,21 @@
+material,floor_1,floor_2,ceiling_1,ceiling_2,external_wall_1,external_wall_2,internal_wall_1,internal_wall_2,internal_wall_3,roof_1,roof_2
+Anhydrite floor,,0.06,0.06,0.06,,,,,,,
+Bitumen sealing,,,,,,0.01,,,,0.01,0.01
+Brickwork,,,,,0.16,,,,,,
+Ceramics,,,0.015,,,,,,,,
+Concrete floor slab (FE 80 kg/m³),0.25,0.25,,,,,,,,,
+Concrete slab (FE 80 kg/m³),,,0.25,0.25,,,,,,0.22,0.22
+Concrete slabs,,,,,,,,,,0.04,
+Concrete wall (FE 60 kg/m³),,,,,,0.25,0.22,,,,
+Expanded polystyrene (EPS) (30 kg/m³),,0.02,0.02,0.02,0.32,,,,,,
+Extruded polystyrene (XPS) (30 kg/m³),,0.08,0.02,0.02,,0.2,,,,,
+Gravel,,,,,,,,,,,0.08
+Gypsum plaster,,,,,0.01,,,0.02,0.02,,
+Gypsum plaster board,,,,,,,,0.025,0.025,,
+Insulation (recycled glass foam fill),0.3,0.3,,,,,,,,,
+Lime plaster,,,,,0.015,,,,,,
+Metal frame construction with rock wool insulation,,,,,,,,0.055,0.115,,
+Polyurethane foam (PU) (30 kg/m³),,,,,,,,,,0.16,0.32
+Sand,,,,,,,,,,0.03,
+Solid Spruce / Fir / Larch (parquet),,0.03,,0.03,,,,,,,
+Vapour barrier of polyethylene (PE),,,,,,,,,,0.003,0.003

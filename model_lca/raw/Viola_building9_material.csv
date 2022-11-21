@@ -1,0 +1,28 @@
+material,floor,ceiling,external_wall,internal_wall_1,internal_wall_2,internal_wall_3,roof
+3-layer solid wood panel,,0.019,0.019,0.038,0.038,,0.019
+8cm x 12cm timber frame construction with intermediate rock wool insulation ,,,,0.12,0.08,,
+Cellulose fibres injected  ,,,,,,,0.32
+"cellulose insulation, timber ratio 6% ",,,0.0002,,,,
+Cement cast plaster floor,0.06,0.07,,,,,
+Cladding of solid Spruce / Fir / Larch,,,0.024,,,,
+Concrete 8 / 10 (lean concrete),0.1,,,,,,
+Concrete floor slab (FE 80 kg/m³),0.25,,,,,,
+Concrete wall (FE 60 kg/m³),,,,,,0.2,
+Edge-glued timber floor,,0.12,,,,,
+Expanded polystyrene (EPS) (35 kg/m³),0.04,0.1,,,,,
+Extruded polystyrene (XPS) (35 kg/m³),0.16,0.02,,,,,
+Fibre board ,,,0.015,,,,
+Fibre cement roof slate,,,,,,,0.04
+Gypsum fibre board screed (Fermacell) ,,0.06,,,,,
+Large scale timber board (GFP),,0.015,,,,,
+Linoleum,,0.005,,,,,
+Mineral fibre board,,,,,,,0.1
+Oriented Strand Board (OSB),,0.012,,,,,
+Permeable fibre board (DHF),,,,,,,0.03
+Permeable fibre board (DHF),,,,,,,
+Rafters (10/14),,,,,,,0.14
+Timber battens,,,0.03,,,,0.04
+Timber battens with intermediate,,,0.06,,,,
+"Timber frame construction 60/320 with intermediate cellulose insulation, timber ratio 12% ",,,0.015,,,,
+Vapour barrier of polyethylene (PE),0,0,0.0002,,,,
+Vapour barrier of polypropylene nonwoven,,,0.0002,,,,

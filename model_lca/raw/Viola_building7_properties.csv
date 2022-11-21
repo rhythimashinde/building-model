@@ -1,0 +1,3 @@
+,floor_1,floor_2,ceiling_1,ceiling_2,external_wall_1,external_wall_2,internal_wall_1,internal_wall_2,roof_1,roof_2,column
+Area (m²),4726,174,11500,1810,2000,920,2750,5998,1930,302,
+Given U Values,0.52,,,,0.21,0.27,,,0.11,,

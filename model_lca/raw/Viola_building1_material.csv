@@ -1,0 +1,19 @@
+material,floor_1,floor_2,floor_3,floor_4,ceiling_1,ceiling_2,ceiling_3,ceiling_4,ceiling_5,ceiling_6,ceiling_7,ceiling_8,ceiling_9,ceiling_10,ceiling_11,ceiling_12,external_wall_1,external_wall_2,external_wall_3
+Adhesive mortar ,,,,0.006,0.006,,,,,,0.006,,,0.006,,,0.006,,
+Base plaster,,,,,,,,,,,,,,,,,,0.01,
+Bitumen sealing,,,,,,,,,,,,,,,,,,,0
+Brickwork (concrete brick),,,,,,,,,,,,,,,,,,0.18,
+Cement cast plaster floor,0.03,0.03,0.03,,0.09,0.085,0.11,0.08,0.09,0.11,0.08,0.075,0.08,0.08,0.075,0.08,,,
+Cement mortar,,,,0.01,,,,,,,,,,,,,,,
+Ceramics,,,,0.014,0.014,,,,,,0.014,,,0.014,,,0.014,,
+Concrete floor slab (FE 80 kg/m³),0.3,0.4,0.24,0.3,,,,,,,,,,,,,,,
+Concrete wall (FE 80 kg/m³),,,,,0.3,0.3,0.3,0.3,0.3,0.3,0.24,0.24,0.24,0.24,0.24,0.24,,,
+Concrete wall (FE 60 kg/m³),,,,,,,,,,,,,,,,,0.2,,0.25
+Expanded polystyrene (EPS) (30 kg/m³),,,,,0.14,0.14,0.14,0.17,0.12,0.12,0.02,0.02,0.04,0.06,0.06,0.06,0.16,0.16,0.16
+Extruded polystyrene (XPS) (35 kg/m³),,,,,,,,,,,,,,,,,,,
+Flooring of polyurethane (PU),,,,,,0.005,,,,,,0.005,,,0.005,,,,
+Glass wool mat (30 kg/m³),,,,,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,,,
+Gypsum plaster,,,,,,,,,,,,,,,,,,0.01,
+Mineral plaster,,,,,,,,,,,,,,,,,,0.01,
+Vapour barrier of polyethylene (PE),,,,,,,,,0,0,0,0,0,0,0,0,,,
+Poor concrete,0.1,0.1,0.1,,,,,,,,,,,,,,,,

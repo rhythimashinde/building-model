@@ -1,0 +1,27 @@
+material,floor,ceiling_1,ceiling_2,external_wall_1,external_wall_2,internal_wall_1,internal_wall_2,internal_wall_3,roof
+3-layer solid wood panel PVAc-bound,,,,0.035,,,,,0.035
+5-layer insulated (glass wool) wood panel,,,0.165,,,,,,
+Bitumen waterproofing membrane GV2,,,,,0.003,,,,
+Cement cast plaster floor,0.04,0.05,0.05,,,,,,
+Concrete floor slab (FE 80 kg/m³),0.22,,,,,,,,
+Concrete slab (FE 80 kg/m³),,0.22,,,,,,,
+Concrete wall (FE 60 kg/m³),,,,,0.25,0.28,,,
+Drainage slab (poor concrete),,,,,0.07,,,,
+Expanded polystyrene (EPS) (30 kg/m³),,,0.03,,,,,,
+Extruded polystyrene (XPS) (30 kg/m³),,,,,0.24,,,,
+Fibre board,,,,0.022,,,,,
+Fibre board Polypropylene sheet ,,,,,,,,,0.025
+Glued laminated timber frame construction with intermediate rock wool (60 kg/m³) ,,,,,,,,,0.26
+Gypsum plaster,,,,0.01,,,,0.015,
+Gypsum plaster board 12cm x 17.5cm ,,,,,,,,0.015,
+Insulation (recycled glass foam fill),0.4,,,,,,,,
+Log wood panel with 0.26 m rock wool,,,,0.26,,,,,
+Non-woven filter (PE),,,,,0.001,,,,
+Polyurethane (PUR / PIR) (30 kg/m³) ,,0.18,,,,,,,
+Sand lime brick,,,,,,,0.15,,
+Solid Spruce / Fir / Larch (parquet),,0.015,0.015,,,,,,
+Timber battens and counter battens,,,,,,,,,0.07
+Timber battens with rock wool (60 kg/m³ ,,,,,,,,,0.08
+Timber battens with sand fill,,,0.06,,,,,,
+Timber frame construction with intermediate glass wool insulation,,,,,,,,0.175,
+Vapour barrier of polyethylene (PE),,0.0002,0.0002,0.02,,,,,
