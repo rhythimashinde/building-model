@@ -1,12 +1,12 @@
 material,Thermal conductivity (W/mK),Source
 "(White) gypsum plaster, painted",0.18,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
-12 cm X 16 cm timber frame construction ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+12 cm X 16 cm timber frame construction ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
 3-layer solid wood panel,0.12,https://link.springer.com/article/10.1007/s00107-016-1021-60.12
 3-layer solid wood panel PVAc-bound,0.12,https://link.springer.com/article/10.1007/s00107-016-1021-60.12
 5-layer insulated (glass wool) wood panel,0.12,https://link.springer.com/article/10.1007/s00107-016-1021-60.12
-8cm x 12cm timber frame construction with intermediate rock wool insulation ,0.034,https://www.rockwool.com/uk/products-and-applications/product-overview/cladding-solutions/timber-frame-slab/?selectedCat=downloads
+8cm x 12cm timber frame construction with intermediate rock wool insulation ,0.03,https://www.rockwool.com/uk/products-and-applications/product-overview/cladding-solutions/timber-frame-slab/?selectedCat=downloads
 Adhesive mortar ,2,https://www.researchgate.net/publication/342902505_Thermal_properties_of_cement_mortar_with_different_mix_proportions
-Air cavity,0.024,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
+Air cavity,0.02,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Anhydrite floor,2.2,https://www.easyflow.org.uk/common-questions-liquid-floor-screed/
 Base plaster,0.35,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
 Bitumen sealing,0.17,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
@@ -24,7 +24,7 @@ Cement slates,0.29,https://www.engineeringtoolbox.com/thermal-conductivity-d_429
 Ceramics,100,https://www.electronics-cooling.com/1999/09/the-thermal-conductivity-of-ceramics/
 Cladding of solid Spruce / Fir / Larch,0.1,https://www.researchgate.net/publication/320949509_Thermal_conductivity_values_for_laminated_strand_lumber_and_spruce_for_use_in_hybrid_cross-laminated_timber_panels
 Clinker quarter brick ,1.15,https://techno.expertexpro.com/en/stroitelnye-materialy/269-klinkernyj-kirpich-chto-eto-takoe-kharakteristiki.html
-Coating + polystyrene (XPS) (30 kg/m³) ,0.035,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/thermal-conductivity-of-expanded-polystyrene/
+Coating + polystyrene (XPS) (30 kg/m³) ,0.04,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/thermal-conductivity-of-expanded-polystyrene/
 Concrete 8 / 10 (lean concrete),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Concrete bond,0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Concrete C 8 / 10 (lean concrete),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
@@ -34,17 +34,17 @@ Concrete slabs,0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/Th
 Concrete wall (FE 60 kg/m³),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Concrete wall (FE 80 kg/m³),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Drainage slab (poor concrete),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
-Edge-glued timber floor,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Expanded polystyrene (EPS) (15 kg/m³),0.035,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
-Expanded polystyrene (EPS) (30 kg/m³),0.035,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
-Expanded polystyrene (EPS) (35 kg/m³),0.035,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
-Extruded polystyrene (XPS) (35 kg/m³),0.0325,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/extruded-polystyrene-xps/
-Extruded polystyrene (XPS) (30 kg/m³),0.0325,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/extruded-polystyrene-xps/
-Fibre board,0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
-Fibre board ,0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
-Fibre board Polypropylene sheet ,0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
-Fibre board soft,0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
-"Fibre board, emission-free (""Living board"")",0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Edge-glued timber floor,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Expanded polystyrene (EPS) (15 kg/m³),0.04,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
+Expanded polystyrene (EPS) (30 kg/m³),0.04,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
+Expanded polystyrene (EPS) (35 kg/m³),0.04,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
+Extruded polystyrene (XPS) (35 kg/m³),0.03,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/extruded-polystyrene-xps/
+Extruded polystyrene (XPS) (30 kg/m³),0.03,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/extruded-polystyrene-xps/
+Fibre board,0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Fibre board ,0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Fibre board Polypropylene sheet ,0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Fibre board soft,0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+"Fibre board, emission-free (""Living board"")",0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
 Fibre cement board,0.36,https://cementboardfabricators.com/technical-data/
 Fibre cement facing tile,0.36,https://cementboardfabricators.com/technical-data/
 Fibre cement roof slate,0.36,https://cementboardfabricators.com/technical-data/
@@ -53,13 +53,13 @@ Flagstones,2,https://www.naturalstoneinstitute.org/stoneprofessionals/technical-
 Floor slab element of plywood,0.13,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
 Floor slab element of plywood filled with crushed stones,0.13,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
 Floor slab element of plywood with intermediate rock wool insulation,0.13,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
-Flooring of polyurethane (PU),0.025,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
-Foam glass,0.045,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/foam-glass-cellular-glass/
+Flooring of polyurethane (PU),0.03,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
+Foam glass,0.05,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/foam-glass-cellular-glass/
 Galvanized sheet steel,52,http://www.matweb.com/search/datasheet_print.aspx?matguid=abbf07b7f93a4c358a0ddd194f5c18be&n=1
 Glass wool mat ,0.03,https://www.thermal-engineering.org/what-is-thermal-conductivity-of-glass-wool-definition/
 Glass wool mat (30 kg/m³),0.03,https://www.thermal-engineering.org/what-is-thermal-conductivity-of-glass-wool-definition/
-Glued laminated timber frame construction with intermediate rock wool (60 kg/m³) ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Gradient insulation EPS 40-140 mm ,0.035,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
+Glued laminated timber frame construction with intermediate rock wool (60 kg/m³) ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Gradient insulation EPS 40-140 mm ,0.04,https://omnexus.specialchem.com/selection-guide/expanded-polystyrene-eps-foam-insulation
 Granite floor slabs (mottled and brush-finished) in mortar bedding,2.9,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjI1Zu2z4j0AhXChP0HHd2aD1gQFnoECA4QAw&url=https%3A%2F%2Fwww.osti.gov%2Fetdeweb%2Fservlets%2Fpurl%2F21487492&usg=AOvVaw3iCY68FJqcZyQDvwQj-a1k
 Gravel,0.7,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
 Gravel Non-woven filter (PE),0.7,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
@@ -71,94 +71,96 @@ Gypsum plaster board 12cm x 17.5cm ,0.18,https://www.nde-ed.org/Physics/Material
 Hard fibre board,0.17,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
 Insulating fibre board,0.1,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
 insulation (glass wool) (30 kg/m³),0.03,https://www.thermal-engineering.org/what-is-thermal-conductivity-of-glass-wool-definition/
-Insulation (recycled glass foam fill),0.045,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/foam-glass-cellular-glass/
-Insulation of Polyurethane (PU),0.025,https://www.designingbuildings.co.uk/wiki/Thermal_conductivity
-Large scale timber board (GFP),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Insulation (recycled glass foam fill),0.05,https://www.nuclear-power.com/nuclear-engineering/heat-transfer/heat-losses/insulation-materials/foam-glass-cellular-glass/
+Insulation of Polyurethane (PU),0.03,https://www.designingbuildings.co.uk/wiki/Thermal_conductivity
+Large scale timber board (GFP),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
 Lean concrete,0.16,https://www.designingbuildings.co.uk/wiki/Thermal_conductivity
 Lime plaster,0.7,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
 Linoleum,0.17,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
-Log wood panel with 0.26 m rock wool,0.065,https://www.researchgate.net/publication/323112225_Thermal_Conductivity_of_Wood_with_ABS_Waste_Core_Sandwich_Composites_Subject_to_Various_Core_Modifications
-Log wood panel with 6 cm insulation (glass wool) (30 kg/m³) ,0.058,https://link.springer.com/article/10.1007/s00107-019-01436-5
+Log wood panel with 0.26 m rock wool,0.07,https://www.researchgate.net/publication/323112225_Thermal_Conductivity_of_Wood_with_ABS_Waste_Core_Sandwich_Composites_Subject_to_Various_Core_Modifications
+Log wood panel with 6 cm insulation (glass wool) (30 kg/m³) ,0.06,https://link.springer.com/article/10.1007/s00107-019-01436-5
 Masonry-BN (standard brick),0.8,https://www.engineeringtoolbox.com/thermal-conductivity-d_429.html
 Mastic asphalt,2,https://www.fhwa.dot.gov/pavement/sustainability/articles/pavement_thermal.cfm
-Medium density fibre board (DWD),0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Medium density fibre board (DWD),0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
 Metal frame construction ,100,
 Metal frame construction with intermediate rock wool insulation,100,
 Metal frame construction with rock wool insulation,100,
 Metal sheets,100,
 Metal stud construction with intermediate rock wool insulation ,100,
 "Metal, glass insert",100,
-Mineral fibre board,0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Mineral fibre board,0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
 Mineral plaster,0.2,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjMlf7ImIf0AhVOgP0HHbXcBgYQFnoECAIQAw&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F9%2F12%2F2443%2Fpdf-vor&usg=AOvVaw3ddFh-fSXjZc6QgerA7Wcy
+Natural stone plates,2,https://www.naturalstoneinstitute.org/stoneprofessionals/technical-bulletins/rvalue/
 Non-woven filter (PE),0.5,https://www.engineeringtoolbox.com/thermal-conductivity-plastics-d_1786.html
 Non-woven polyethylene (PE),0.5,https://www.engineeringtoolbox.com/thermal-conductivity-plastics-d_1786.html
+Non-woven filter (PE) and drainage layer,0.5,https://www.engineeringtoolbox.com/thermal-conductivity-plastics-d_1786.html
 Oriented Strand Board (OSB),0.1,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
 "Particle board, emission-free (""Living board"")",0.1,https://www.new-learn.info/packages/clear/thermal/buildings/building_fabric/properties/conductivity.html
-Permeable fibre board (DHF),0.038,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
+Permeable fibre board (DHF),0.04,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiC1OfGpIb0AhVJ_7sIHQhhBl4QFnoECAMQAQ&url=http%3A%2F%2Fwww.bischoff-schaefer.de%2Ffileadmin%2Feditor%2FPDF%2FEN%2FWood_fibre_insulation_boards.pdf&usg=AOvVaw1xZxpsCgPH_BDIssoFDD8V
 Phenolic foam (PF) (15 kg/m³),0.02,https://www.designingbuildings.co.uk/wiki/Phenolic_foam_insulation
 Polypropylene fleece (PP),0.11,https://www.intechopen.com/chapters/65584
-Polyurethane (PUR / PIR) (30 kg/m³),0.025,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
-Polyurethane (PUR / PIR) (30 kg/m³) ,0.025,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
-Polyurethane (PUR/ PIR) (30 kg/m³) ,0.025,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
-Polyurethane foam (PU) (30 kg/m³),0.025,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
+Polyurethane (PUR / PIR) (30 kg/m³),0.03,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
+Polyurethane (PUR / PIR) (30 kg/m³) ,0.03,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
+Polyurethane (PUR/ PIR) (30 kg/m³) ,0.03,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
+Polyurethane foam (PU) (30 kg/m³),0.03,https://blog.synthesia.com/en/what-is-the-thermal-conductivity-of-polyurethane
 Poor concrete,0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Protective drainage layer made of PE,0.5,https://www.engineeringtoolbox.com/thermal-conductivity-plastics-d_1786.html
 Protective Layer (PE),0.5,https://www.engineeringtoolbox.com/thermal-conductivity-plastics-d_1786.html
 Protective sheet of rubber granulate,1,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjNmuWvkon0AhV1_rsIHWuRCU4QFnoECAYQAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2076-3417%2F11%2F6%2F2725%2Fpdf&usg=AOvVaw1FU2318sDffv10_nF6AiFk
-Rafters (10/14),0.035,https://www.ursa-uk.co.uk/applications/rafter-level-roof-insulation
-Rafters with cellulose insulation,0.035,https://www.ursa-uk.co.uk/applications/rafter-level-roof-insulation
+Rafters (10/14),0.04,https://www.ursa-uk.co.uk/applications/rafter-level-roof-insulation
+Rafters with cellulose insulation,0.04,https://www.ursa-uk.co.uk/applications/rafter-level-roof-insulation
 Reinforced concrete,0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Reinforced concrete (m³),0.8,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
-Rock wool (100 kg/m³),0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
-Rock wool (60 kg/m³),0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
-Rock wool insulation,0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
-Rock wool slab (160 kg/m³),0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
-Rockwool insulation (60 kg/m³),0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Rock wool (100 kg/m³),0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Rock wool (60 kg/m³),0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Rock wool insulation,0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Rock wool slab (160 kg/m³),0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Rockwool insulation (60 kg/m³),0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
 Sand,0.25,https://material-properties.org/sand-density-heat-capacity-thermal-conductivity/
 Sand filling,0.25,https://material-properties.org/sand-density-heat-capacity-thermal-conductivity/
 Sand lime brick,0.25,https://material-properties.org/sand-density-heat-capacity-thermal-conductivity/
 Sand-lime brick,0.25,https://material-properties.org/sand-density-heat-capacity-thermal-conductivity/
-Solid Oak (parquet),0.075,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
-Solid Spruce / Fir / Larch,0.075,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
-Solid Spruce / Fir / Larch (parquet),0.075,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
-Solid wood (m³),0.075,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
-"Solid wood (spruce), raw",0.075,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
+Solid Oak (parquet),0.08,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
+Solid Spruce / Fir / Larch,0.08,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
+Solid Spruce / Fir / Larch (parquet),0.08,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
+Solid wood (m³),0.08,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
+"Solid wood (spruce), raw",0.08,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjFh9vmqIb0AhWriv0HHVXCAZAQFnoECAsQAw&url=http%3A%2F%2Fwww.proligno.ro%2Fen%2Farticles%2F2015%2F4%2FOlarescu_final.pdf&usg=AOvVaw0kRre7cd9oTBc0c4CI-a8u
 Steel (filled with quarry sand) - volume (m³),50.2,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Steel (filled with sand) (m³),50.2,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml
 Stucco,7.73,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjkmqqEqYb0AhXAhP0HHSHMAdgQFnoECA0QAw&url=https%3A%2F%2Fremdb.nrel.gov%2Fmeasures.php%3FgId%3D12%26ctId%3D216%26acId%3D2374&usg=AOvVaw02_PNRnYB9yQ2hc6zrAOgF
 Substrate for vegetation,0.35,https://www.researchgate.net/publication/322271017_Cooling_energy_saving_associated_with_exterior_greenery_systems_for_three_US_Department_of_Energy_DOE_standard_reference_buildings/figures
 Sun care Coating,1.4,https://ceramics.onlinelibrary.wiley.com/doi/10.1111/ijac.13313
-Suspension ceiling lining with intermediate rock wool insulation (0.06 m),0.035,https://www.sciencedirect.com/topics/engineering/mineral-wool
+Suspension ceiling lining with intermediate rock wool insulation (0.06 m),0.04,https://www.sciencedirect.com/topics/engineering/mineral-wool
 Synthetic rubber mat with nubs,0.14,https://www.electronics-cooling.com/2001/11/the-thermal-conductivity-of-rubbers-elastomers/
-"Tile / brick & timber construction, battens",0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens (30/60),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens (40/80) with intermediate rock wool insulation (60 kg/m³),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens (50/80) with intermediate rock wool insulation ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens (60/130),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens (60/30),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens and air cavity,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens and counter battens,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens and counter battens with air cavity ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens and counter battens with intermediate air space ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate air space  ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate glass wool ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate glass wool mat (30 kg/m³),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate insulation,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate insulation (0.3 m) and installation gap (0.05 m),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with intermediate rock wool insulation,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with rock wool (60 kg/m³ ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber battens with sand fill,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber cladding,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-"Timber frame construction 60/320 with intermediate cellulose insulation, timber ratio 12% ",0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction with cellulose insulation (50 kg/m3),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction with intermediate cellulose fibre insulation,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction with intermediate glass wool insulation,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction with intermediate insulation (glass wool) (30 kg/m³),0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Timber frame construction with intermediate rock wool insulation (60 kg/m³) ,0.173,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
-Vapour barrier of polyethylene (PE),0.038,https://www.archiexpo.com/architecture-design-manufacturer/insulation-vapor-barrier-38647.html
-Vapour barrier of polypropylene nonwoven,0.038,https://www.archiexpo.com/architecture-design-manufacturer/insulation-vapor-barrier-38647.html
+"Tile / brick & timber construction, battens",0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens (30/60),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens (40/80) with intermediate rock wool insulation (60 kg/m³),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens (50/80) with intermediate rock wool insulation ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens (60/130),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens (60/30),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens and air cavity,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens and counter battens,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens and counter battens with air cavity ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens and counter battens with intermediate air space ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate air space  ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate glass wool ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate glass wool mat (30 kg/m³),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate insulation,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate insulation (0.3 m) and installation gap (0.05 m),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with intermediate rock wool insulation,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with rock wool (60 kg/m³ ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber battens with sand fill,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber cladding,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+"Timber frame construction 60/320 with intermediate cellulose insulation, timber ratio 12% ",0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction with cellulose insulation (50 kg/m3),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction with intermediate cellulose fibre insulation,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction with intermediate glass wool insulation,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction with intermediate insulation (glass wool) (30 kg/m³),0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Timber frame construction with intermediate rock wool insulation (60 kg/m³) ,0.17,https://www.semanticscholar.org/paper/Thermal-characterization-of-building-assemblies-by-Soret-L%C3%A1zaro/42d5ee17df25a5bb4f7424cebf8ee2bb2b22e86a
+Vapour barrier of polyethylene (PE),0.04,https://www.archiexpo.com/architecture-design-manufacturer/insulation-vapor-barrier-38647.html
+Vapour barrier of polypropylene nonwoven,0.04,https://www.archiexpo.com/architecture-design-manufacturer/insulation-vapor-barrier-38647.html
 Wind paper,,
 "Wood wool board, cement bonded",0.12,https://www.nde-ed.org/Physics/Materials/Physical_Chemical/ThermalConductivity.xhtml

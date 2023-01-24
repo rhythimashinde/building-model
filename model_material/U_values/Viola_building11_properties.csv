@@ -1,0 +1,4 @@
+mfh11,floor_1,floor_2,ceiling_1,ceiling_2,external_wall_1,external_wall_2,internal_wall_1,internal_wall_2,internal_wall_3,roof_1,roof_2
+Area (m²),387,242,210,1890,1068,310,1021,737,291,250,460
+Given U Values,0.28,0.16,,,0.11,0.101,,,,0.16,0.1
+Calculated U Values,0.158415842,0.101199831,0.663750856,0.531507952,0.121312587,0.142086018,3.636363636,5.466955949,5.449082014,0.169143009,0.089367295

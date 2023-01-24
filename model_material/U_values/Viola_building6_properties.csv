@@ -1,0 +1,4 @@
+mfh06,floor,ceiling_1,ceiling_2,ceiling_3,external_wall_1,external_wall_2,internal_wall_1,internal_wall_2,roof_1,roof_2,column
+Area (m²),594 m²,135 m²,270 m²,96.00 m²,205.00 m²,337 m²,139.00 m²,84.00 m²,421.00 m²,176.00 m²,
+Given U Values,,,,,0.1,,,,0.1,0.1,
+Calculated U Values,3.2,0.102633977,0.155290896,3.2,0.33611519,3.2,3.593531643,2.083333333,2,0.173918477,3.391891892

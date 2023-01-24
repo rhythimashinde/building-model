@@ -3,11 +3,13 @@ material,floor,ceiling_1,ceiling_2,ceiling_3,external_wall,internal_wall_1,inter
 3-layer solid wood panel PVAc-bound,,,,,,,,,,0.024,0.024
 Bituminous geomembrane,,,,,,,,,0,,
 Bituminous vapour barrier,,,,,,,,,0,0,0
+Cement mortar,,0.01,,,,,,,,,
 Cement cast plaster floor,0.03,0.08,0.072,0.065,,,,,,,
 Concrete C 8 / 10 (lean concrete),0.1,,,,,,,,,,
 Concrete floor slab (FE 80 kg/m³),0.25,,,,,,,,,,
 Concrete slab (FE 80 kg/m³),,0.21,0.21,0.21,,,,,0.21,0.21,0.21
 Expanded polystyrene (EPS) (15 kg/m³),,0.14,0.03,0.03,,,,,,,
+Expanded polystyrene (EPS) (30 kg/m³),,,,,0.14,,,0.03,,,
 Flagstone in a bed of crushed stones,,,,,,,,,0.04,,
 Galvanized sheet steel,,,,,,,,,,0,0
 Granite floor slabs (mottled and brush-finished) in mortar bedding,,0.02,,0.02,,,,,,,
@@ -17,6 +19,7 @@ Masonry-BN (standard brick),,,,,0.275,0.125,0.15,0.275,,,
 "Metal, glass insert",,,,,,,,,,,
 Non-woven polyethylene (PE),,,,,,,,,,0,0
 Polyurethane (PUR/ PIR) (30 kg/m³) ,,,,,,,,,0.16,0.14,0.14
+Non-woven polyethylene (PE),,0.0002,,,,,,,,,
 Protective sheet of rubber granulate,,,,,,,,,0.008,,
 Solid Oak (parquet),,,0.013,,,,,,,,
 Timber battens and counter battens with intermediate air space ,,,,,,,,,,0.1,

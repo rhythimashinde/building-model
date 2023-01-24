@@ -1,0 +1,4 @@
+mfh04,floor,ceiling_1,ceiling_2,ceiling_3,external_wall,internal_wall_1,internal_wall_2,internal_wall_3,roof_1,roof_2,roof_3
+Area (m²),225.80 m²,146.90 m²,127.70 m²,275.80 m²,321.73 m²,194.71 m²,119.06 m²,27.37 m²,126.71 m²,26.45 m²,113.51 m²
+Given U Values,,,,,0.21,,,,0.13,0.19,0.19
+Calculated U Values,1.848605578,0.246873433,0.676209599,0.769769585,0.256801348,5.006802721,4.329411765,0.879330944,0.177129956,0.174242101,0.184051607

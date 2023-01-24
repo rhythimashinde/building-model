@@ -1,0 +1,4 @@
+mfh03,floor_1_,floor_2,ceiling_1,ceiling_2,ceiling_3,external_wall_1,external_wall_2,external_wall_3,internal_wall_1,internal_wall_2,roof_1,roof_2,column_1_,column_2,property
+Area (m²),103.8,59.6,161.2,76.2,28.4,58.45,85.12,43.65,130.16,95.34,132,62,,,
+Given U Values,0.1,,,,,0.1,,0.1,,,0.11,,,,
+Calculated_U_Values,0.119010116,0.158290463,0.265516331,0.195637495,2.75862069,0.262165546,0.276672337,0.126811594,1.183752418,4.444444444,0.168485448,3.712948518,1004,502,Calculated_U_Values
