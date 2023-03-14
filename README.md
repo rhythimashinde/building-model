@@ -1,6 +1,7 @@
 # building-model
 Supporting model for overall estimation of operational and embodied footprints of a building
 
+Main code: '0_Complete_building_model.ipynb'
 
 ## model-beef
 Contains the updated model from <a href = https://www.sciencedirect.com/science/article/pii/S030626191731454X> Buffat et al. 2017 </a> to estimate the space heating demands 
